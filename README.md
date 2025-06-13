@@ -10,6 +10,7 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite con
 ✅ Separación de lógica en clases específicas (ConsultaPelicula) 🧱
 
 <h1>🛠️ Tecnologías usadas</h1>
+
 ☕ Java 21
 
 📡 java.net.http.HttpClient
